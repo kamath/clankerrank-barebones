@@ -1,5 +1,7 @@
 # ClankerLoop
 
+This should be using the new workflow!
+
 A monorepo containing a Next.js web app and Cloudflare Workers backend. Check it out at [ClankerLoop.com](https://ClankerLoop.com).
 
 ![Demo](public/demo.gif)
