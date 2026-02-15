@@ -1,6 +1,4 @@
-# ClankerLoop
-
-A monorepo containing a Next.js web app and Cloudflare Workers backend. Check it out at [ClankerLoop.com](https://ClankerLoop.com).
+hello from flamecast fr
 
 ![Demo](public/demo.gif)
 
